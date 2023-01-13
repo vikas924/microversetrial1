@@ -36,3 +36,32 @@ body {
 #img-caption {
     margin: 15px 0 15px 0;
 }
+
+#headline {
+    margin: 50px 0;
+}
+
+#tribute-info ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+#tribute-info ul li {
+    margin: 16px 0;
+    display: list-item;
+}
+
+.tribute-quote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+
+#tribute-link {
+    color: #477ca7;
+    cursor: pointer;
+    text-decoration: underline;
+}
